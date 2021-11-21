@@ -56,6 +56,10 @@ const config: NuxtConfig = {
       },
     },
   },
+  server: {
+    host: '0', // default: localhost
+    port: 80, // default: 3000
+  },
 }
 
 export default config
