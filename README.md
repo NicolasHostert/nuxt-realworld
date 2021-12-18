@@ -14,6 +14,11 @@ We've gone to great lengths to adhere to the Nuxt community styleguides & best p
 
 For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
+# YCIT021 information
+This fork has been used to created the application used in my project.
+
+The image build from this fork is stored in [this repository](https://hub.docker.com/layers/nhostert/myapp/v3/images/sha256-d1bd0de89614a2e61a375ad25bcecf1eb2aa96d60a3b51e1340b0521c628c1a2?context=explore).
+
 
 # How it works
 
